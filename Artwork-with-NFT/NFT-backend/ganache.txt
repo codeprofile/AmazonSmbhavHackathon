@@ -1,0 +1,50 @@
+diksha@diksha-hpelitebook840g3:~$ ganache-cli
+Ganache CLI v6.12.2 (ganache-core: 2.13.2)
+
+Available Accounts
+==================
+(0) 0x8008Fa48647d0e3b22045b969efBf768C72ad25f (100 ETH)
+(1) 0x01c88a205eDF7347d7001dFeB1392Ec4676f0a36 (100 ETH)
+(2) 0xAa497F8071dC56F36d6d3E4A79b7635DB1Be30Ae (100 ETH)
+(3) 0xaB01541AfBE918D32699A7d673E3e4EC02e0a42E (100 ETH)
+(4) 0xBD37Ed867cB4e41d5022511e7d36b255559271cC (100 ETH)
+(5) 0x05D45eC111E4ae280656b89c66862c49cFD88266 (100 ETH)
+(6) 0x4d70279ff98F8A94893C695a26eDe70BcAAEd2b0 (100 ETH)
+(7) 0x9321909899b733418384116DAfEa287D06A23168 (100 ETH)
+(8) 0x39969AFAB5604db9083549ebEC7Ca67c1B872742 (100 ETH)
+(9) 0x1030fF16D9791a1E0b59E68773b7BE5E5B5067fe (100 ETH)
+
+Private Keys
+==================
+(0) 0xb03e0e70b0d0fa5fd27040b9975ee42a8ece3edcc80770358e631242f7a15197
+(1) 0x8aa0b45e462bf3159ce3f36a50c8cfdda6b64ea12330369b5e77f4d1edefc97d
+(2) 0xc83060411bd6c8ca3c698345129c3bf672a54ee39520b1c8e282f67b22b8bbd3
+(3) 0x181ffe9c8b74a9a73d083c1d041922b1cfd3b10e41e4bf65d74555e37fdbc0c8
+(4) 0x09e1570ed31a2e95d4b2773d93b3a92f364e0a14769df90a633392bd082f4907
+(5) 0x0f7f558aff3166c407a225b0cc43c9f54894218f9c1a0e2abb37a33665f9967f
+(6) 0xa51856c5a8b1f83afdd698c1acc6bed0fd790fb8a0ee68dddba1f4f262dc7b00
+(7) 0xde747f739195d441c270d27adbf7c3ba2409a11f135fdb164c697378a9dc0adc
+(8) 0x53cd02d8e3764fab7007b3ba6b3a6dccea506a8ec7b25083a9871d983d77ee9b
+(9) 0xb7a4a04dccca9545373b2ffddd241f74ab9dd284a8203446d1d0d4bb24bb6cf2
+
+HD Wallet
+==================
+Mnemonic:      share goose clog extra such text powder win burden digital area situate
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Gas Price
+==================
+20000000000
+
+Gas Limit
+==================
+6721975
+
+Call Gas Limit
+==================
+9007199254740991
+
+Listening on 127.0.0.1:8545
+
+
+
