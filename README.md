@@ -29,4 +29,12 @@ Now after uploading you either have option to navigate to `home` page or `Dashbo
 
 <img src="https://user-images.githubusercontent.com/94001814/167314673-88469a15-2ced-4087-8f8a-f68d1f4a8741.jpeg" width=75% height=75%>
 
+<b> Steps to run the Project </b>
+ <ul>
+  <li> git clone `https://github.com/codeprofile/AmazonSmbhavHackathon`
+  <li> Cd into the project still `Artwork-with-NFT` </li>
+  <li> run `pip install -r requirements.txt`</li>
+  <li> run `flask run` </li>
+  </ul>
+
 
